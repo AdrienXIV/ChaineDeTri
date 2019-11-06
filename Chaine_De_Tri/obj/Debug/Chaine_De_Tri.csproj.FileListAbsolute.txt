@@ -1,0 +1,28 @@
+C:\Users\snir\Desktop\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\bin\Debug\Chaine_De_Tri.exe.config
+C:\Users\snir\Desktop\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\bin\Debug\Chaine_De_Tri.exe
+C:\Users\snir\Desktop\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\bin\Debug\Chaine_De_Tri.pdb
+C:\Users\snir\Desktop\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\obj\Debug\Chaine_De_Tri.Properties.Resources.resources
+C:\Users\snir\Desktop\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\obj\Debug\Chaine_De_Tri.csproj.GenerateResource.Cache
+C:\Users\snir\Desktop\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\obj\Debug\Chaine_De_Tri.exe
+C:\Users\snir\Desktop\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\obj\Debug\Chaine_De_Tri.pdb
+C:\Users\snir\Desktop\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\obj\Debug\Chaine_De_Tri.csprojResolveAssemblyReference.cache
+C:\Users\snir\Desktop\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\bin\Debug\Json.Net35.dll
+C:\Users\snir\Desktop\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\bin\Debug\Newtonsoft.Json.dll
+C:\Users\snir\Desktop\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\bin\Debug\Json.Net35.pdb
+C:\Users\snir\Desktop\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\snir\Desktop\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\bin\Debug\Newtonsoft.Json.xml
+C:\Users\snir\Desktop\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\obj\Debug\Chaine_De_Tri.Chaine_De_Tri.resources
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Mini-Projet\Code\C#\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\bin\Debug\Chaine_De_Tri.exe.config
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Mini-Projet\Code\C#\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\obj\Debug\Chaine_De_Tri.exe
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Mini-Projet\Code\C#\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\obj\Debug\Chaine_De_Tri.pdb
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Mini-Projet\Code\C#\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\bin\Debug\Chaine_De_Tri.exe
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Mini-Projet\Code\C#\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\bin\Debug\Chaine_De_Tri.pdb
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Mini-Projet\Code\C#\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\bin\Debug\Json.Net35.dll
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Mini-Projet\Code\C#\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Mini-Projet\Code\C#\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\bin\Debug\Json.Net35.pdb
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Mini-Projet\Code\C#\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Mini-Projet\Code\C#\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Mini-Projet\Code\C#\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\obj\Debug\Chaine_De_Tri.csprojResolveAssemblyReference.cache
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Mini-Projet\Code\C#\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\obj\Debug\Chaine_De_Tri.Chaine_De_Tri.resources
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Mini-Projet\Code\C#\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\obj\Debug\Chaine_De_Tri.Properties.Resources.resources
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Mini-Projet\Code\C#\Chaîne de Tri ASi\Chaine_De_Tri\Chaine_De_Tri\obj\Debug\Chaine_De_Tri.csproj.GenerateResource.Cache
